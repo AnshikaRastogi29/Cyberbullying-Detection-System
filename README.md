@@ -146,13 +146,37 @@ cyberbullying_project
 
 ---
 
+## Project Progress
+
+**Overall Completion: 60%**
+
 ## Current Status
 
-* Literature Review Completed
-* Research Gap Identified
-* Project Planning Completed
-* Dataset Collection in Progress
-* Streamlit Development Started
+ # Week 1 Completed
+- Literature Review
+- Research Gap Identification
+- Project Planning
+
+ # Week 2 Completed
+- Dataset Collection
+- Data Cleaning
+- Text Preprocessing
+- Exploratory Data Analysis
+
+ # Week 3 Completed
+- Streamlit Dashboard Development
+- Logistic Regression Model
+- Random Forest Model
+- XGBoost Model
+- Sentiment Analysis
+- Emotion Detection
+- Severity Prediction
+
+ # Upcoming Work
+- SHAP Visualization
+- Advanced Explainability Dashboard
+- UI Enhancement
+- Research Paper Writing
 
 ---
 
